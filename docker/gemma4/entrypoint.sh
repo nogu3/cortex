@@ -16,4 +16,4 @@ exec llama-server \
     --host 0.0.0.0 \
     --port 8080 \
     -ngl 99 \
-    --ctx-size 4096
+    --ctx-size 16384
